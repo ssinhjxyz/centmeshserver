@@ -1,0 +1,56 @@
+.paddingBottom{
+	padding-bottom:10px;
+}
+
+.blackText{
+	color:black !important;
+};
+
+.offsetBottom{
+	position:relative !important;
+	bottom:4px;
+};
+
+.lightBorder{
+	border:1px solid lightgray;
+}
+
+.paddingAll{
+	padding:10px;
+}
+
+.form-group{
+	margin-bottom: 25px;
+}
+
+.hidden{
+	display: none;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+#map {
+    height: 100%;
+  }
+
+.active {
+	font-color:black !important;
+	font-weight: bolder;
+	box-shadow: none !important;
+	-webkit-box-shadow:none !important;
+}
+
+.loginMethod .active{
+	background-color: white !important;
+}
+
+.loginMethod label{
+	color:gray;
+}
+.navbar{
+	min-height: 70px !important;
+}
